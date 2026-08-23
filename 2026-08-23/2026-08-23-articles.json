@@ -6,170 +6,170 @@
       "title": "openai/codex",
       "url": "https://github.com/openai/codex",
       "excerpt": "Lightweight coding agent that runs in your terminal",
-      "meta": "Rust · ★ 114,316 · 🍴 17,453 · 📈 1,544 stars today",
+      "meta": "Rust · ★ 114,366 · 🍴 17,457 · 📈 1,544 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenAI推出的轻量级编码代理，运行在终端中。它能理解整个代码库，自动执行例行编码任务、解释复杂代码并处理Git工作流。该工具专为命令行环境设计，让开发者无需切换窗口即可获得AI辅助，适合追求高效编码体验的程序员。"
+      "summary": "OpenAI 发布的轻量级编码代理，运行在终端中，能根据自然语言指令完成代码编写、修改与执行。它专注命令行场景，适合喜欢在终端工作的开发者，快速获得 AI 编程协助。"
     },
     {
       "sourceId": "github-trending",
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
-      "meta": "Shell · ★ 232,797 · 🍴 19,863 · 📈 2,683 stars today",
+      "meta": "Shell · ★ 232,840 · 🍴 19,867 · 📈 2,683 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为真实工程师打造的Agent技能集合，直接取自作者的工作目录。这些技能可提升Claude Code等编码代理的表现，通过预定义的提示词与工作流，解决LLM编码中的常见问题。适合希望优化AI编码工具行为的开发者使用。"
+      "summary": "mattpocock 从他的 .agents 目录中整理出的 AI 代理技能集合，专为真实工程师设计。这些技能可直接用于配置编码代理，帮助代理按实战经验处理工程任务。适合希望复用成熟技巧、提升代理表现的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 242,299 · 🍴 36,708 · 📈 411 stars today",
+      "meta": "JavaScript · ★ 242,305 · 🍴 36,708 · 📈 411 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ECC是Agent Harness性能优化系统，提供技能、本能、记忆、安全等能力，并采用研究优先的开发方法。它支持Claude Code、Codex、Opencode、Cursor等编码代理，能全面提升AI编程助手的效率与安全性，适合深度依赖AI编码工具的专业开发者。"
+      "summary": "面向 AI 代理框架的性能优化系统，可为 Claude Code、Codex、Opencode、Cursor 等工具添加技能、直觉、记忆与安全能力，并强调研究优先的开发流程。适合需要系统增强代理能力、管理复杂编码任务的工程师。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 276,384 · 🍴 24,723 · 📈 592 stars today",
+      "meta": "Shell · ★ 276,394 · 🍴 24,726 · 📈 592 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套有效的Agent技能框架与软件开发方法论。它提供结构化的技能定义和流程指导，帮助开发者更好地驾驭AI代理，从而提高代码质量和开发效率。适合正在探索AI驱动开发模式的团队的采用。"
+      "summary": "一套可落地的代理技能框架与软件开发方法论。它将 AI 代理能力组织为标准化技能，并配套工程实践，帮助开发者规范地构建智能代理工作流。适用于希望将 AI 代理融入团队开发的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "Wei-Shaw/sub2api",
       "url": "https://github.com/Wei-Shaw/sub2api",
       "excerpt": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "meta": "Go · ★ 38,908 · 🍴 8,049 · 📈 278 stars today",
+      "meta": "Go · ★ 38,918 · 🍴 8,050 · 📈 278 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的一站式API中转服务，将Claude、OpenAI、Gemini、Grok等多种订阅统一接入，支持拼车共享以分摊成本，同时保留原生工具的无缝使用体验。适合需要聚合多模型API、降低调用费用的开发者和团队。"
+      "summary": "一站式开源 API 中转服务，将 Claude、OpenAI、Gemini、Grok 等订阅统一接入 API，支持拼车共享以分摊成本，原生工具无需改造即可使用。适合个人与小团队集中管理订阅、降低 AI 使用费用。"
     },
     {
       "sourceId": "github-trending",
       "title": "makeplane/plane",
       "url": "https://github.com/makeplane/plane",
       "excerpt": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "meta": "TypeScript · ★ 57,364 · 🍴 5,452 · 📈 263 stars today",
+      "meta": "TypeScript · ★ 57,369 · 🍴 5,453 · 📈 263 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的现代项目管理平台，可作为Jira、Linear、Monday和ClickUp的替代品。支持任务管理、冲刺、文档和工单分类，界面简洁现代，适合采用敏捷开发的团队进行项目协作与进度追踪。"
+      "summary": "开源现代项目管理平台，定位为 Jira、Linear、Monday、ClickUp 的替代品。提供任务、迭代、文档和问题分类管理，界面现代化且可自行部署。适合需要自主掌控项目管理工具的研发团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "excerpt": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "meta": "TypeScript · ★ 201,967 · 🍴 60,316 · 📈 149 stars today",
+      "meta": "TypeScript · ★ 201,974 · 🍴 60,318 · 📈 149 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "带有原生AI能力的工作流自动化平台。可组合可视化节点与自定义代码，实现流程自动化，支持自托管或云服务，拥有400多种集成。适合开发与运维人员整合业务系统并融入AI智能。"
+      "summary": "采用 Fair-code 许可的工作流自动化平台，原生集成 AI 能力。支持可视化编排与自定义代码结合，可自托管或云端运行，拥有 400 多种集成。适合自动化和 AI 驱动业务流程的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "excerpt": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "meta": "Python · ★ 142,672 · 🍴 22,847 · 📈 127 stars today",
+      "meta": "Python · ★ 142,678 · 🍴 22,848 · 📈 127 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude Code是Anthropic推出的终端编码代理，能深入理解代码库，自动执行例行任务、解释复杂代码并处理Git工作流，从而加速开发。适合在命令行环境中寻求AI辅助，提高编码效率的开发者。"
+      "summary": "Anthropic 推出的终端 AI 编程工具，能理解代码库，通过执行常规任务、解释复杂代码和处理 Git 工作流，帮助开发者更快编码。面向程序员，在命令行中即可获得代理式协助。"
     },
     {
       "sourceId": "github-trending",
       "title": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "excerpt": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "meta": "Rust · ★ 14,237 · 🍴 379 · 📈 959 stars today",
+      "meta": "Rust · ★ 14,255 · 🍴 379 · 📈 959 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用Rust编写的本地优先的Logitech Options+替代品。它通过HID++协议直接控制鼠标，支持重映射按键、调整DPI和SmartShift，无需账号和遥测，注重隐私。适合罗技外设用户，尤其是追求低延迟本地控制的玩家。"
+      "summary": "用 Rust 实现的罗技 Options+ 替代品，本地优先、无账户无遥测。通过 HID++ 协议重映射按键、调节 DPI 与 SmartShift，为罗技设备提供原生控制体验。适合注重隐私的罗技外设用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "modular/modular",
       "url": "https://github.com/modular/modular",
       "excerpt": "The Modular Platform (includes MAX & Mojo)",
-      "meta": "Mojo · ★ 28,898 · 🍴 3,067 · 📈 395 stars today",
+      "meta": "Mojo · ★ 28,901 · 🍴 3,068 · 📈 395 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Modular平台整合了MAX推理引擎与Mojo编程语言。MAX用于高性能AI推理，Mojo是Python的超集，保留易用性的同时具备C级性能，旨在统一AI开发栈，适合机器学习工程师快速构建和部署模型。"
+      "summary": "Modular 的 AI 开发平台，专注于高性能计算，包含 MAX 与 Mojo 核心组件。Mojo 是面向 AI 开发的语言，MAX 提供运行时与推理能力，适合构建与部署高性能 AI 应用。"
     },
     {
       "sourceId": "github-trending",
       "title": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "excerpt": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "meta": "★ 205,492 · 🍴 21,021 · 📈 315 stars today",
+      "meta": "★ 205,499 · 🍴 21,022 · 📈 315 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个CLAUDE.md配置文件，用于改善Claude Code的行为，其内容源自Andrej Karpathy对LLM编码常见陷阱的观察。通过注入高级指令与约束，让AI代理在编码时更稳健，适合希望提升Claude Code表现的开发者。"
+      "summary": "一个 CLAUDE.md 文件，用于改进 Claude Code 的编码行为，内容基于 Andrej Karpathy 对 LLM 编码陷阱的观察。通过集中配置引导代理规避常见错误，适合希望提升代码质量的 Claude Code 用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "mahlernim/google-timeline-visualizer",
       "url": "https://github.com/mahlernim/google-timeline-visualizer",
       "excerpt": "Visualize your year in travel using your Google Location History (Timeline) data",
-      "meta": "Kotlin · ★ 2,621 · 🍴 309 · 📈 441 stars today",
+      "meta": "Kotlin · ★ 2,625 · 🍴 310 · 📈 441 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "利用Google位置历史（Timeline）数据，将你一年的旅行轨迹可视化。导入导出文件后，在地图上清晰展示到访过的城市与路线，适合喜欢记录旅行足迹、进行个人数据分析的用户。"
+      "summary": "基于 Google 位置历史（Timeline）数据，将一年的出行轨迹可视化呈现。用户可直观回顾旅行路线与活动范围，适合保存过个人地理位置数据的用户，是轻量、本地的可视化工具。"
     },
     {
       "sourceId": "github-trending",
       "title": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "excerpt": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "meta": "HTML · ★ 134,087 · 🍴 14,036 · 📈 829 stars today",
+      "meta": "HTML · ★ 134,093 · 🍴 14,037 · 📈 829 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一份面向DevOps和基础设施开发者的免费服务清单，收录了拥有免费层级的SaaS、PaaS和IaaS产品。开发者可借此快速找到适合开发测试、个人项目的云服务，有效节省成本。"
+      "summary": "一份持续更新的开发者免费服务清单，汇总了 SaaS、PaaS、IaaS 中提供免费层的产品，涵盖云资源、数据库、监控等类别。DevOps 与基础设施开发者可据此为项目寻找零成本方案。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/TypeScript",
       "url": "https://github.com/microsoft/TypeScript",
       "excerpt": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "meta": "Go · ★ 110,590 · 🍴 13,747 · 📈 104 stars today",
+      "meta": "Go · ★ 110,593 · 🍴 13,747 · 📈 104 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "TypeScript是JavaScript的超集，编译后生成干净的JavaScript代码。它提供静态类型检查、接口和现代语言特性，能显著提升大型项目的可读性与可维护性，适合前端团队构建复杂应用。"
+      "summary": "TypeScript 是 JavaScript 的超集，可编译为干净的 JavaScript 代码。它在 JS 基础上加入静态类型系统，能提前发现错误、改善大型项目可维护性，现已广泛用于前端和 Node.js 生态。"
     },
     {
       "sourceId": "github-trending",
       "title": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "excerpt": "Cursor plugin specification and official plugins",
-      "meta": "TypeScript · ★ 4,725 · 🍴 385 · 📈 286 stars today",
+      "meta": "TypeScript · ★ 4,726 · 🍴 385 · 📈 286 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Cursor插件规范与官方插件的官方仓库，定义了如何为Cursor AI编辑器开发插件的标准。开发者可按此规范创建扩展，定制编辑器的AI行为，适用于正在使用Cursor并希望增强功能的开发者。"
+      "summary": "Cursor 的插件规范与官方插件集合，定义了插件开发标准并给出参考实现。开发者可据此构建扩展，深度集成 Cursor 编辑器，增强 AI 辅助编程能力。适合 Cursor 插件开发者和用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "excerpt": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all",
-      "meta": "Python · ★ 38,717 · 🍴 3,248 · 📈 286 stars today",
+      "meta": "Python · ★ 38,719 · 🍴 3,248 · 📈 286 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "PostHog是构建自动驾驶产品的一体化开发平台，提供AI可观测性、产品分析、会话回放、功能开关、实验、错误跟踪和日志等工具。它帮助团队全面理解用户行为并持续优化产品，适合数据驱动的产品与工程团队。"
+      "summary": "PostHog 是一个面向自驱型产品的开发平台，提供 AI 可观测性、产品分析、会话回放、功能开关、实验、错误追踪和日志等工具。帮助团队理解用户行为、快速验证想法并优化产品。"
     },
     {
       "sourceId": "github-trending",
       "title": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
       "excerpt": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-      "meta": "Python · ★ 5,603 · 🍴 527 · 📈 150 stars today",
+      "meta": "Python · ★ 5,612 · 🍴 527 · 📈 150 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "腾讯开源的AI红队平台，用于全面测试AI生态安全。它通过Agent扫描、技能扫描、MCP扫描、AI基础设施扫描和LLM越狱评估，发现潜在漏洞，适合安全研究人员与AI平台运维者加固系统。"
+      "summary": "腾讯推出的全栈 AI 红队平台，用于保护 AI 生态安全。支持 Agent 扫描、技能扫描、MCP 扫描、AI 基础设施扫描和 LLM 越狱评估，可系统性识别安全风险。适合安全研究员和 AI 应用团队在发布前进行测试。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -404,7 +404,7 @@
       "publishedAt": "2026-08-20T07:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出新博客栏目AI Futures，旨在探讨变革性AI如何重塑权力格局、治理体系、经济形态与个人自由，并推动相关讨论。"
+      "summary": "OpenAI 推出全新博客“AI Futures”，旨在探讨变革性AI如何重塑权力、治理、经济和个体自由。该博客将作为平台，讨论AI对社会的深远影响。"
     },
     {
       "sourceId": "openai-news",
@@ -675,7 +675,7 @@
       "publishedAt": "2026-08-21T11:59:48.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "Google DeepMind发文回顾从Atari到《EVE Online》的15年游戏AI研究，并宣布与游戏工作室合作，原型测试突破性AI玩法。"
+      "summary": "Google DeepMind 宣布与多家游戏工作室合作，基于15年游戏AI研究成果，从Atari到EVE Online，原型测试突破性AI玩法。合作旨在利用AI改进游戏体验，并推动AI在复杂环境中的决策能力研究。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -946,7 +946,7 @@
       "publishedAt": "2026-08-21T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face博客探讨在语音识别中如何度量基准（benchmark）优化，分析模型在标准测试集上的表现提升及其可信度与方法论意义。"
+      "summary": "Hugging Face 博客发文，探讨语音识别中基准测试优化的衡量方法。文章聚焦于如何更准确地评估模型在语音识别基准上的改进，以反映真实的性能提升。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -956,7 +956,7 @@
       "publishedAt": "2026-08-20T16:52:57.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Liquid AI发布LFM2.5-DSpark模型，宣称推理速度最高可提升3.2倍，主要得益于稀疏化等优化技术，为大规模部署带来效率提升。"
+      "summary": "Hugging Face 博客发布文章，介绍LFM2.5-DSpark 模型，其推理速度最高可提升3.2倍。文章展示了该模型在推理性能优化方面的进展，并可能涉及架构或部署层面的改进。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1518,7 +1518,7 @@
       "publishedAt": "2026-08-21T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 2026年8月21日简报：ChatGPT已支持Apple Messages；Anthropic推出会议记录工具；Mistral发布智能体搜索功能。"
+      "summary": "TLDR AI 日报（8月21日）汇总：ChatGPT 集成 Apple Messages，Anthropic 推出会议记录器，Mistral 推出智能体搜索功能。三大AI公司分别在不同应用场景扩展产品能力。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1699,7 +1699,7 @@
       "publishedAt": "2026-08-21T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "神秘模型Ox Alpha以强大编程与智能体性能亮相，据分析可能出自智谱/GLM家族（如GLM-5.3 Vision），基于743B参数基座；其提升或来自后训练与基础设施优化，而非单纯规模扩大。"
+      "summary": "Smol AI News 报道，神秘模型Ox Alpha 展现出强大的编码和智能体性能，疑似来自智谱GLM系列，如GLM-5.3 Vision。分析师认为其性能提升源于后训练和基础设施改进，而非单纯参数规模，其基础模型规模为743B。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1709,7 +1709,7 @@
       "publishedAt": "2026-08-20T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "OpenAI与Anthropic扩展智能体平台，新增桌面功能、协作编辑及Skills、Files API等可组合接口；OpenAI在EEA、英国和瑞士推出记忆与工作流功能；AT&T披露其40%员工正使用AI。"
+      "summary": "Smol AI News 报道，OpenAI与Anthropic扩展智能体平台，新增桌面功能、协作编辑及Skills和Files API等可组合API。OpenAI在欧洲经济区、英国和瑞士推出记忆和工作流功能。AT&T披露了涉及40%员工的相关数据。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1971,7 +1971,7 @@
       "publishedAt": "2026-08-22T07:36:00.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI新闻简报指出，模拟技术正成为新趋势：性能虽比传统方法差10%，但成本降低100倍、速度提升10000倍，正逐步取代现有训练范式。RSI（递归自我改进）并未止步于模型训练阶段。"
+      "summary": "最新AI新闻简报指出，模拟技术以“性能降低10%、成本便宜100倍、速度快10000倍”的优势正在取代传统模型训练。文章提出，模拟不仅在模型训练阶段，还可能成为新的扩展方向，引发业界对模拟驱动AI发展的讨论。"
     },
     {
       "sourceId": "latent-space",
@@ -1981,7 +1981,7 @@
       "publishedAt": "2026-08-22T07:30:52.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "文章探讨智能体工具（Agent Harness）的演变。模型正不断将外部工具内化到自身权重中，未来这类工具或将转向服务于人类注意力，而不再仅仅是模型的辅助工具。"
+      "summary": "文章探讨智能体控制框架的演变，认为模型正不断将控制框架吸收进自身权重中。未来，控制框架可能不再是服务于模型，而是成为人类注意力的调度工具，这一转变将重塑人机交互方式。"
     },
     {
       "sourceId": "latent-space",
@@ -1991,7 +1991,7 @@
       "publishedAt": "2026-08-21T23:37:38.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Simile AI首席执行官Joon Sung Park讲述其从爆款项目Generative Agents到为全球80亿人构建数字孪生的历程，并解释为何这一领域已从趣味探索转变为严肃商业。"
+      "summary": "Simile AI CEO Joon Sung Park 介绍其从生成式智能体的研究，到为每个在世人类创建80亿数字孪生的历程。他认为模拟已成为新的扩展定律，相关探索正从有趣的研究方向转变为严肃的商业应用。"
     },
     {
       "sourceId": "latent-space",
@@ -2001,7 +2001,7 @@
       "publishedAt": "2026-08-21T05:45:21.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI新闻：Poolside以120亿美元「反向高管聘用」交易并入NVIDIA；创始人留任获10亿美元，员工获60亿美元，旗下Infraco新云规模将扩展至7GW。"
+      "summary": "AI新闻：Poolside 以120亿美元“反向高管聘用”交易加入NVIDIA，创始人留任获10亿美元，员工将获得60亿美元。同时，其基础设施公司Infraco扩展至7GW新云容量。交易结构复杂引发关注。"
     },
     {
       "sourceId": "latent-space",
@@ -2011,7 +2011,7 @@
       "publishedAt": "2026-08-20T20:59:09.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Matt Pocock介绍其/wayfinder技能，旨在帮助用户在全新项目或规划方向不明时，穿越「战争迷雾」，找到前进路径。"
+      "summary": "Matt Pocock 在 Latent Space 介绍了他的 /wayfinder 技能，该技能用于全新项目或方向不明确时的规划，帮助开发者应对规划过程中的“战争迷雾”。他强调在模糊情境中建立行动路径的方法。"
     },
     {
       "sourceId": "latent-space",
@@ -2021,7 +2021,7 @@
       "publishedAt": "2026-08-20T05:17:12.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI新闻：Z.ai CEO Jie Tang谈GLM 5.3模型及新的「后训练扩展定律」，认为行业正从堆参数转向后训练优化，迎来「参数之死」时代。"
+      "summary": "AI新闻：Z.ai CEO唐杰（Jie Tang）谈GLM 5.3和新的后训练扩展定律，认为“参数死亡”时代到来，模型能力增长将更多依赖后训练而非单纯扩大参数。文章还提到各实验室CEO正活跃于社交媒体平台X。"
     },
     {
       "sourceId": "latent-space",
@@ -2157,7 +2157,7 @@
       "publishedAt": "2026-08-20T15:42:39.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT Tech Review文章指出，围绕AI意识的争论是个陷阱。当前「失控AI」「叛逃智能体」等修辞暗示AI已觉醒并敌视人类；Hassabis、Amodei、Altman等科技领袖正推动相关监管。"
+      "summary": "MIT 技术评论文章指出，围绕AI意识的争论是一个陷阱。当前言论将AI描述为失控、叛逆和自主行动者，暗示其具有感知并对创造者愤怒。Demis Hassabis、Dario Amodei、Sam Altman 等科技领袖正推动相关监管。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2167,7 +2167,7 @@
       "publishedAt": "2026-08-20T09:47:22.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "文章探讨航空公司借助市场模型发掘隐藏收入流：每日数万乘客、数百航班及多段中转行程，定价需考量数百个变量，模型可优化收益。"
+      "summary": "MIT 技术评论文章探讨利用市场模型解锁隐藏收入流。以航空公司为例，每日运输数万名旅客，航线多需中转，定价需考虑数百个变量。市场模型可帮助优化定价，发现新的收入机会。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2250,7 +2250,7 @@
       "category": "tech",
       "meta": "@gabepereyra · 11.4K 粉丝 · 616.8K 阅 · 507 赞 · 99 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Harvey研究团队公布过去六个月的post-training进展，核心目标是构建前沿法律智能（frontier legal intelligence）。由五位研究者合作完成，偏重模型后训练与法律领域能力的结合，是垂类AI应用的实战分享。"
+      "summary": "Harvey 研究团队公开近六个月 post-training 工作进展，聚焦构建前沿法律智能，由多位作者合作推进，目标是提升模型在法律领域的专业能力。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2261,7 +2261,7 @@
       "category": "tech",
       "meta": "@heynavtoor · 149.3K 粉丝 · 161.9K 阅 · 550 赞 · 93 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "教程：正确设置Grokbot，让业务在你睡觉时自动运行。马斯克亲自推荐，有用户用它替换掉1万美元的Mac Mini本地AI方案，Gavin Baker称AI使用量增长约100倍。属于工具配置指南，适合自动化爱好者。"
+      "summary": "介绍如何正确配置 Grokbot，使其在 2026 年自动运营业务。引证 Elon Musk 推荐案例，有用户用它替代了 1 万美元的 Mac Mini 本地 AI 设置，Gavin Baker 称使用量增约百倍。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2272,7 +2272,7 @@
       "category": "tech",
       "meta": "@SlackHQ · 434.3K 粉丝 · 86.9K 阅 · 512 赞 · 44 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Slack发布Slack Code，将AI编程升级为团队协作。代码频道让开发从私有标签页走向公开，团队与AI agent可共同编写、审查、交付代码。这是面向agentic coding时代的产品更新，强调协作透明化。"
+      "summary": "Slack 推出 Code 功能，将 AI 编程变为团队协作。代码频道让开发工作走出私人标签页，团队与 agent 可在开放环境中一起编写、审查和交付代码。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2283,7 +2283,7 @@
       "category": "tech",
       "meta": "@AndrewYNg · 1.8M 粉丝 · 62.4K 阅 · 1.2K 赞 · 189 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "吴恩达更新AI工程技能图谱，最高层技能包括构建与部署AI应用、软件工程基础、使用编码工具等。为AI工程师提供能力分层框架，属于经典能力模型的补充说明。"
+      "summary": "吴恩达回顾 AI 工程技能地图，指出最高层级技能包括构建和部署 AI 应用、软件工程基础以及使用编码工具等，为开发者提供系统化学习路径参考。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2294,7 +2294,7 @@
       "category": "tech",
       "meta": "@ID_AA_Carmack · 3.7M 粉丝 · 58.8K 阅 · 577 赞 · 40 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "卡马克提出关于策略震荡（Policy Churn）的新理论，引用相关论文，并从经典epsilon-greedy探索方法切入分析。这是对RL训练中常见不稳定现象的深度技术讨论，适合强化学习研究者。"
+      "summary": "Carmack 分享对强化学习中策略震荡现象的理论解释，引用 arXiv 论文，并从 epsilon-greedy 等经典探索方法入手分析其成因。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2305,7 +2305,7 @@
       "category": "tech",
       "meta": "@themahis · 4.7K 粉丝 · 43.0K 阅 · 515 赞 · 37 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "研究笔记：Grok Bot与Hermes表面相似，底层押注截然不同。前者试图让AI队友像托管产品般易用，后者把agent本身做成开放可组合的运行时。这是AI agent产品路线对比分析，适合架构决策参考。"
+      "summary": "对比 Grok Bot 与 Hermes 的底层设计差异：前者试图让 AI 队友像托管产品，后者则把 agent 本身做成开放、可组合的运行时，属于深度架构研究笔记。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2316,7 +2316,7 @@
       "category": "tech",
       "meta": "@kmeanskaran · 13.9K 粉丝 · 32.9K 阅 · 518 赞 · 66 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Agent系统设计系列第一篇：把前沿模型放进设计糟糕的agent系统，只会得到更清晰的失败。真正的工程在模型之外，集中在“脚手架”这一系统架构层。适合想深入Agent系统设计的人。"
+      "summary": "探讨 agent 系统设计的第一部分，指出将前沿模型放入糟糕 agent 架构只会得到更清晰可见的失败，强调工程重点在于模型之外的脚手架。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2326,7 +2326,7 @@
       "publishedAt": "2026-08-23T07:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "欧洲大型奢侈品公司对中国这一关键市场的态度转趋乐观，因当地出现脆弱的消费复苏迹象，行业看到“绿芽”。"
+      "summary": "欧洲最大奢侈品企业对中国这一关键市场看法略转乐观，因为该国正出现脆弱的消费复苏迹象。此举显示行业对在华前景重拾信心。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2336,7 +2336,7 @@
       "publishedAt": "2026-08-23T05:15:20.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "据《环球时报》报道，F1正在审查中国男团时代少年团演唱会巡演使用的标志，因粉丝认为该标志与F1商标相似。"
+      "summary": "据《环球时报》报道，F1正审查中国男团时代少年团巡演使用的标志，此前有粉丝指出该标志与F1商标相似，相关调查正在进行。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2346,7 +2346,7 @@
       "publishedAt": "2026-08-23T04:54:59.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "被美国指控与贩毒集团合谋、协助毒品贩运的墨西哥州长再次请求休假，此前他于周五返回工作岗位。"
+      "summary": "被美国指控与贩毒集团合谋并协助毒品走私的墨西哥州长，在周五复职后再次请求休假。美方已对其提出相关指控。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2356,7 +2356,7 @@
       "publishedAt": "2026-08-23T04:21:40.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "澳大利亚报告首例哺乳动物H5禽流感确诊病例，一只长鼻海狮在南澳大利亚被发现死亡。"
+      "summary": "澳大利亚报告首例哺乳动物感染H5禽流感病例，一只长鼻海狗被发现在南澳大利亚死亡。这是该国首次在哺乳动物中确认该病毒。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2366,7 +2366,7 @@
       "publishedAt": "2026-08-23T04:09:01.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "印度在收到货船MV OCEAN WINNER的求救信号后，在孟加拉湾展开搜救，已救出24名船员中的2人。求救信号于8月22日发出。"
+      "summary": "印度在孟加拉湾对货船“海洋赢家”号展开搜救行动。该船8月22日发出求救警报，船上有24名船员，目前已救出其中2人。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2691,7 +2691,7 @@
       "publishedAt": "2026-08-23T04:30:05.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "美国买家正以数十年来最快速度收购欧洲资产管理公司，欧洲基金集团在竞争压力下寻求扩张并布局全球。"
+      "summary": "美国买家正以数十年来最快速度收购欧洲资产管理公司。欧洲基金集团面临困境，各公司竞相扩张规模并寻求全球发展。"
     },
     {
       "sourceId": "ft-companies",
@@ -2701,7 +2701,7 @@
       "publishedAt": "2026-08-23T04:00:15.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "咖啡连锁品牌Blank Street从General Atlantic获得融资，估值约6.5亿美元，这家成立六年的公司目标成为“日常奢侈品牌”。"
+      "summary": "咖啡连锁品牌Blank Street获得泛大西洋投资(General Atlantic)融资以支持扩张。此轮融资对这家成立六年的公司估值约6.5亿美元，其目标是成为“日常奢侈品牌”。"
     },
     {
       "sourceId": "ft-companies",
@@ -2711,7 +2711,7 @@
       "publishedAt": "2026-08-23T04:00:15.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "印度对俄罗斯石油的依赖达到历史最高水平，中东冲突暴露了其能源安全方面的脆弱性。"
+      "summary": "印度对俄罗斯石油的依赖达到历史最高水平。中东冲突暴露出新德里在能源安全上的脆弱性，促使印度加大对俄石油采购以保障供应。"
     },
     {
       "sourceId": "ft-companies",
@@ -2721,7 +2721,7 @@
       "publishedAt": "2026-08-23T04:00:08.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "铁路爱好者对恢复农村地区列车服务的计划意见不一：有人希望升级轨道能保留蒸汽火车体验，有人则担心其演变为通勤服务。"
+      "summary": "铁路爱好者对恢复乡村地区火车服务的计划产生分歧。一些人希望升级轨道能保留蒸汽机车体验，另一些人则担心这些线路会演变成通勤服务。"
     },
     {
       "sourceId": "ft-companies",
@@ -2731,7 +2731,7 @@
       "publishedAt": "2026-08-23T04:00:08.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "泛欧交易所CEO斯特凡·布杰纳（Stéphane Boujnah）回顾十年塑造欧洲市场的历程，自称“在商界没有亲密朋友”，并一直热衷收购以与更大对手竞争。"
+      "summary": "泛欧交易所(Euronext)首席执行官斯特凡·布纳(Stéphane Boujnah)回顾十年重塑欧洲市场历程，称“在商界没有亲密朋友”。他执着于收购交易以与更大型对手竞争。"
     },
     {
       "sourceId": "ft-companies",
@@ -2921,7 +2921,7 @@
       "publishedAt": "2026-08-23T08:03:52.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "英国能源行业机构Energy UK表示，当前针对最困难家庭的支持力度不够，未能充分覆盖需求，能源账单负担下这些家庭需要更多帮助。"
+      "summary": "英国能源行业机构Energy UK表示，当前对最困难家庭的支持力度不够，政府需提供更多账单援助，以帮助陷入困境的家庭应对能源账单压力。"
     },
     {
       "sourceId": "bbc-business",
@@ -2931,7 +2931,7 @@
       "publishedAt": "2026-08-23T05:46:43.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "贸易谈判破裂后，特朗普称加拿大想要成为美国一个州的“好处”。加拿大总理表示“不情愿地”宣布报复性关税，并指责美国发动贸易战。"
+      "summary": "贸易谈判破裂后，特朗普称加拿大想获得成为美国一个州的“好处”。加拿大总理表示“不情愿”地宣布报复性关税，并指责美国发起贸易战。"
     },
     {
       "sourceId": "bbc-business",
@@ -3478,10 +3478,10 @@
       "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
       "excerpt": "The sacked former defence minister has also called for elections to be held in Ukraine.",
-      "publishedAt": "2026-08-23T08:36:53.000Z",
+      "publishedAt": "2026-08-23T08:47:47.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "被解职的乌克兰前国防部长向BBC表示，总统泽连斯基需要就政府内部的腐败问题作出解释，并呼吁在乌克兰举行选举。"
+      "summary": "乌克兰被解职的前国防部长向BBC表示，泽连斯基在政府腐败问题上“有问题需要回答”，并呼吁乌克兰举行选举。"
     },
     {
       "sourceId": "bbc-world",
@@ -4049,7 +4049,7 @@
       "publishedAt": "2026-08-23T07:15:52.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "加拿大总理卡尼在美加贸易战中向特朗普展现强硬姿态，放弃了他认为不公平的贸易协议。许多加拿大人支持这一做法，但此举代价高昂。"
+      "summary": "加拿大总理卡尼在美加贸易战中拒绝了他认为不利的贸易协议，向美国总统特朗普展现强硬立场。许多加拿大人支持这一决定，但代价高昂。"
     },
     {
       "sourceId": "nyt-world",
@@ -4356,7 +4356,7 @@
       "publishedAt": "2026-08-23T07:20:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "柏林司法参议员呼吁采取更严厉措施打击枪支暴力，称“必须把加害者的玩具拿走”。过去数月柏林多次发生涉枪严重冲突，首都治安问题引发关注。"
+      "summary": "德国近期接连发生枪击事件，柏林司法参议员呼吁采取更严厉措施打击枪支暴力，称必须“把加害者的玩具拿走”。过去数月柏林多次发生涉枪严重冲突，首都治安问题引发关注。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4366,17 +4366,7 @@
       "publishedAt": "2026-08-23T07:19:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "为应对美国惩罚性关税，巴西和乌拉圭正积极推动与南方共同市场签署自贸协定。南美国家也在考量是否与中国达成类似协议，相关谈判进展受到关注。"
-    },
-    {
-      "sourceId": "dw-chinese",
-      "title": "德国年轻人不够了? 15-24岁人口占比创新低",
-      "url": "https://www.dw.com/zh/德国年轻人不够了-15-24岁人口占比创新低/a-78401070?maca=chi-rss-chi-all-1127-rdf",
-      "excerpt": "德国正面临日益严峻的人口老化问题。根据德国联邦统计局最新数据，目前15至24岁青年人口仅占总人口的10%，创下历史新低。相较于1980年代初期接近17%的占比，如今年轻人口规模已明显萎缩。",
-      "publishedAt": "2026-08-23T07:19:00.000Z",
-      "category": "politics",
-      "source": "DW 中文",
-      "summary": "德国人口老龄化问题日益严峻。德国联邦统计局最新数据显示，15至24岁青年人口仅占总人口的10%，创历史新低，较1980年代初接近17%的占比明显萎缩。"
+      "summary": "为应对美国惩罚性关税，巴西和乌拉圭正积极推动南方共同市场与中国达成自贸协定的谈判。外界关注相关计划进展如何，南美是否会继欧盟之后再与中国签协议。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4386,7 +4376,17 @@
       "publishedAt": "2026-08-23T07:19:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "在萨克森-安哈尔特州被列为“确凿的右翼极端主义”组织的德国选择党，在该州议会选举民调中领先。其政纲可能威胁包豪斯文化、大屠杀纪念文化及戏剧界的多样性。"
+      "summary": "在德国萨克森-安哈尔特州被归为“确凿的右翼极端主义”的德国选择党，在该州议会选举民调中领先。该党主张削减对“反德艺术”的资助，其政纲可能对包豪斯文化、大屠杀纪念文化及戏剧多样性构成威胁。"
+    },
+    {
+      "sourceId": "dw-chinese",
+      "title": "德国年轻人不够了? 15-24岁人口占比创新低",
+      "url": "https://www.dw.com/zh/德国年轻人不够了-15-24岁人口占比创新低/a-78401070?maca=chi-rss-chi-all-1127-rdf",
+      "excerpt": "德国正面临日益严峻的人口老化问题。根据德国联邦统计局最新数据，目前15至24岁青年人口仅占总人口的10%，创下历史新低。相较于1980年代初期接近17%的占比，如今年轻人口规模已明显萎缩。",
+      "publishedAt": "2026-08-23T07:19:00.000Z",
+      "category": "politics",
+      "source": "DW 中文",
+      "summary": "德国联邦统计局最新数据显示，德国15至24岁青年人口仅占总人口的10%，创历史新低，较1980年代初期近17%的占比明显萎缩，人口老化问题日益严峻。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4396,7 +4396,7 @@
       "publishedAt": "2026-08-23T07:18:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "中国汽车制造商通过长期战略成功打入拉美市场，目前巴西市场销售的电动汽车有四分之一来自中国。这一成就也意味着行业洗牌，有赢家也有输家。"
+      "summary": "中国汽车制造商通过长期战略成功打入拉美市场。目前巴西市场销售的电动汽车中，四分之一来自中国。然而这一成功背后，有赢家也有输家。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4631,7 +4631,7 @@
       "publishedAt": "2026-08-23T08:08:27.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "据半岛电视台视频报道，委内瑞拉首都加拉加斯遭遇强降雨，全市多地洪水泛滥，街道被淹，居民出行与生活受到严重影响。"
+      "summary": "半岛电视台视频显示，委内瑞拉首都加拉加斯遭暴雨袭击后，城市出现大范围洪水，多条街道被淹，当地生活受到严重影响。"
     },
     {
       "sourceId": "aljazeera",
@@ -4641,7 +4641,7 @@
       "publishedAt": "2026-08-23T08:07:54.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "半岛电视台图片报道显示，俄罗斯在乌克兰战争及与西方关系紧张背景下庆祝国旗日，圣彼得堡民众参加爱国活动并向全市分发三色旗丝带。"
+      "summary": "俄罗斯在俄乌战争及与西方关系紧张之际庆祝国旗日。圣彼得堡民众通过爱国活动、分发国旗色丝带等方式纪念三色国旗。"
     },
     {
       "sourceId": "aljazeera",
@@ -4651,7 +4651,7 @@
       "publishedAt": "2026-08-23T08:03:41.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "刚果民主共和国与M23反政府武装就和平谈判路线图达成一致，路线图为结束已导致数千人死亡、数百万人流离失所的战事列明步骤和时间表。"
+      "summary": "刚果（金）政府与M23反政府武装同意和平谈判路线图，为结束已造成数千人死亡、数百万人流离失所的冲突设定了会谈步骤和时间表。"
     },
     {
       "sourceId": "aljazeera",
@@ -4661,7 +4661,7 @@
       "publishedAt": "2026-08-23T07:38:42.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "哈萨克斯坦举行议会选举，预计将进一步巩固总统托卡耶夫的权力。在全面宪法改革背景下，只有经国家批准、忠于托卡耶夫的政党获准参选。"
+      "summary": "哈萨克斯坦举行议会选举，预计将进一步巩固总统托卡耶夫的权力。在全面宪法改革背景下，只有经国家批准且效忠总统托卡耶夫的政党获准参选。"
     },
     {
       "sourceId": "aljazeera",
@@ -4680,7 +4680,7 @@
       "publishedAt": "2026-08-23T06:59:51.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "23次大满贯冠军塞雷娜·威廉姆斯将与卡洛斯·阿尔卡拉斯搭档出战美国网球公开赛混双。她不会参加单打，但可能与姐姐大威廉姆斯联手出战女双。"
+      "summary": "23次大满贯冠军得主塞雷娜·威廉姆斯将搭档卡洛斯·阿尔卡拉斯出战美网混双。她不会参加单打，但可能与姐姐维纳斯·威廉姆斯搭档双打。"
     },
     {
       "sourceId": "aljazeera",
@@ -4690,7 +4690,7 @@
       "publishedAt": "2026-08-23T06:48:34.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "澳大利亚在第二场板球测试赛中由斯塔克一人取下10个三柱门，以“一局加51分”击败孟加拉国。孟加拉国两局分别仅得64分和95分，澳大利亚也报了首战失利之仇。"
+      "summary": "澳大利亚在第二场板球测试赛中，依靠斯塔克取下10个三柱门，先后令孟加拉国只得64分和95分，最终以一局另51分获胜，大胜复仇。"
     },
     {
       "sourceId": "aljazeera",
@@ -4700,7 +4700,7 @@
       "publishedAt": "2026-08-23T06:15:50.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "佩古拉在辛辛那提网球赛半决赛中击败斯瓦泰克，挺进决赛，将对阵高芙。女单决赛将由两位美国选手上演内战，男单决赛则由蒂亚福对阵法国选手菲尔斯。"
+      "summary": "佩古拉在辛辛那提公开赛中淘汰斯瓦泰克，晋级女单决赛，将与美国选手高芙争冠。男单决赛则由蒂亚福对阵法国选手菲尔斯。"
     },
     {
       "sourceId": "aljazeera",
@@ -4710,7 +4710,7 @@
       "publishedAt": "2026-08-23T05:55:10.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "哈萨克斯坦8月23日举行议会选举，这个中亚国家的政局走向受到外界密切关注。此次选举结果将对国家未来政治方向产生重要影响。"
+      "summary": "哈萨克斯坦8月23日举行议会选举，外界关注选举结果将如何影响该国政治格局。选举预计将巩固总统托卡耶夫的权力，只有国家批准的政党获准参选。"
     },
     {
       "sourceId": "aljazeera",
